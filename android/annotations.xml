@@ -1,0 +1,5 @@
+<root>
+    <item name='android.R.drawable ic_media_pause'>
+        <annotation name='android.support.annotation.NonNull' />
+    </item>
+</root>
